@@ -114,6 +114,8 @@ public final class FrameworkConstants {
 
     public static final String ICON_BROWSER_PREFIX = "<i class=\"fa fa-";
     public static final String ICON_BROWSER_SUFFIX = "\" aria-hidden=\"true\"></i>";
+     public static final String ICON_BROWSER_SUFFIX2 = "\" aria-hidden=\"true\"></i>";
+     public static final String ICON_BROWSER_SUFFIX3 = "\" aria-hidden=\"true\"></i>";
     /* ICONS - END */
 
     public static String getExtentReportFilePath() {
