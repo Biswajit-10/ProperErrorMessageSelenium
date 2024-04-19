@@ -6,6 +6,14 @@ Jun 16, 2023
 * Update WebUI keyword
 * Fixed "clearText" function in WebUI keyword
 
+v1.9.5
+======
+Jun 16, 2023
+* Update Selenium 4.10.0
+* Update TestNG 7.8.0
+* Update WebUI keyword
+* Fixed "clearText" function in WebUI keyword
+
 v1.9.4
 ======
 May 25, 2023
